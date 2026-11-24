@@ -25,4 +25,15 @@ Healthcare administrators and operational directors require real-time visibility
 
 ---
 
+
+## Download the Excel Project
+
+The original Microsoft Excel clinical and hospital operations dashboard is available for download.
+
+[Download the Excel Project (.xlsx)](Clinical-Operations-Excel-Dashboard.xlsx)
+
+Open the downloaded workbook using Microsoft Excel to explore the dashboard, PivotTables, PivotCharts, interactive slicers, and underlying hospital operations data.
+
+  ---
+
 *Developed by Emmanuel Ottoh | Data Analyst & BI Developer*
